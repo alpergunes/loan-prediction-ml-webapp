@@ -9,7 +9,7 @@
 
 |Email|alprgunes@gmail.com|
 |-----|---------------------|
-|**LinkedIn** |**[Juliet Womack](https://www.linkedin.com/in/alprgunes//)**   |
+|**LinkedIn** |**[Alper Güneş](https://www.linkedin.com/in/alprgunes//)**   |
 
 
 
