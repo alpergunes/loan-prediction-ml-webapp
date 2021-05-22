@@ -9,3 +9,10 @@
 
 
 
+
+[twitter]: https://twitter.com/python_engineer
+[youtube]: http://youtube.com/c/pythonengineer
+[website]: https://www.python-engineer.com/
+[devto]: https://dev.to/python_engineer
+[instagram]: https://www.instagram.com/patloeber/
+[discord]: https://discord.gg/FHMg9tKFSN
